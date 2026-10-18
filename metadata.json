@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap Global",
+  "description": "Platform for sharing skills globally where students can teach, learn, exchange skills, and pay for learning when necessary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
